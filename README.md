@@ -12,6 +12,8 @@
 
 ![Low5tar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Low5tar&show_icons=true&theme=react)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Low5tar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 ## Programas que eu uso no meu dia a dia
 
